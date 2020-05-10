@@ -1,7 +1,8 @@
 NPBayes_fMRI
 ===
-![image](https://cpb-us-e1.wpmucdn.com/blogs.rice.edu/dist/0/5714/files/2017/12/figureNPBayes-1txt4ez-1024x696-y9y6qq.jpg)
----
+<img src="https://github.com/marinavannucci/NPBayes_fMRI/blob/master/figureNPBayes.jpg" alt="BVAR logo" width="500" height="300"> 
+
+--
 
 ## Description
 
